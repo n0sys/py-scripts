@@ -1,4 +1,4 @@
-# Python Scripts
+# Py Scripts
 ## Intro
 Collection of ready-to-use Python scripts
 
